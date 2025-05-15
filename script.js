@@ -43,8 +43,8 @@ const data = {
             { name: "ДП 'Укрспецзахист'", id: "ukrspeczahist" }
           ],
           officials: [
-            { name: "Інна Ящук", position: "Державний секретар", id: "inna-yashchuk" },
-            { name: "Богдан Драп’ятий", position: "Заступник міністра", id: "bogdan-drapiatyi" }
+            { name: "Інна", position: "Державний секретар", id: "inna" },
+            { name: "Богдан", position: "Заступник міністра", id: "bogdan" }
           ]
         },
         {
@@ -57,8 +57,8 @@ const data = {
           ],
           enterprises: [],
           officials: [
-            { name: "Олександр Баньков", position: "Державний секретар", id: "oleksandr-bankov" },
-            { name: "Сергій Кислиця", position: "Перший заступник", id: "serhiy-kyslytsia" }
+            { name: "Олександр", position: "Державний секретар", id: "oleksandr" },
+            { name: "Сергій", position: "Перший заступник", id: "serhiy" }
           ]
         }
       ]
